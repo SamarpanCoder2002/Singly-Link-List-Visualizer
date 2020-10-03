@@ -4,7 +4,7 @@ import time
 
 """Concept----->
 
-   # This Concept is made to make the program too efficient in GUI apps
+   # This Concept is made to make the program too efficient in GUI apps to easily visualize the actual concept of Simply Link List
 
    1.Insert first: New node should add after the last node but the new node value should set to the
    first node of the list after shifting node value in a required direction. The shifting process of the new

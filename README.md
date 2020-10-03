@@ -1,5 +1,5 @@
 # Singly-Link-List-Visualizer
-I made a simple Singly Linked List Visuslizerr in python using Tkinter. Some of the functionality of Singly Link List I made here, they are:   
+I made a simple Singly Linked List Visuslizer in python using Tkinter. Some of the functionality of Singly Link List I made here, they are:   
 
 1.Insert node at first  
 2.Insert node  at last  

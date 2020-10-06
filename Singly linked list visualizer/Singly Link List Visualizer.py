@@ -4,7 +4,7 @@ import time
 
 """Concept----->
 
-   # This Concept is made to make the program too efficient in GUI apps to easily visualize the actual concept of Simply Link List
+   # This Concept is made to make the program too efficient in GUI apps
 
    1.Insert first: New node should add after the last node but the new node value should set to the
    first node of the list after shifting node value in a required direction. The shifting process of the new
@@ -612,7 +612,7 @@ class LinkList: # One and only class of that project
                         else:
                             self.information.config(text="Traversing until found the penultimate node of the targeting node")
                     else:
-                        self.information.config(text="Traversing until found the penultimate node of the last")
+                        self.information.config(text="Traversing until found the penultimate node of the last node")
 
                     # Forget temp pointer
                     self.temp_label.place_forget()
@@ -641,7 +641,7 @@ class LinkList: # One and only class of that project
                 self.window.update()
 
             if locator == 0: #For last node deletion process
-               self.information.config(text="Temp pointing node contains the address of the next part of the last node \nand Last node deleted")
+               self.information.config(text="Temp pointing node contains the address that present in the next part of last node and\nand Last node deleted")
             else:
                 self.information.config(text="Targeting node deleted")
 
@@ -713,7 +713,7 @@ class LinkList: # One and only class of that project
                 if locator == 3:  # For temp 1 pointer delete process
                    self.temp1_label.place_forget()
                    self.canvas_make.delete(self.pointing_line_temp1, self.temp1_pointer)
-                   self.information.config(text="The next part of the temp is now containing the address of \n the next part of temp1 and temp1 pointing node is deleted")
+                   self.information.config(text="The next part of the temp is now containing the address that is present in the \nnext part of temp1 and temp1 pointing node is deleted")
 
                 # Time sleep to slow the process
                 i = 1
@@ -766,7 +766,7 @@ class LinkList: # One and only class of that project
             for i in range(len(self.linked_list_data_next_store)):
                 self.linked_list_data_next_store[i][0].config(text=self.node_value_store[i])
 
-            self.information.config(text="Now start pointer is containing the address of the next part of the first node\nand first node deleted")
+            self.information.config(text="Now start pointer is containing the address that present in the next part of the first node\nand first node deleted")
 
     #For delete particular node infrastructure
     def delete_single_node_infrastructure(self):

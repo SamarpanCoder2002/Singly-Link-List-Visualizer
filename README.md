@@ -9,3 +9,6 @@ I made a simple Singly Linked List Visualizer in python using Tkinter. Some of t
 6.Delete a particular node  
 
 Learning Data Structure as well as possible, really inspires me to do that project. Through this functionality of that Link List, I want to make visualization of the logic of all that methods. 
+
+
+Project demo video link ---> https://youtu.be/Tv2Pba1dwNY

@@ -2,7 +2,6 @@
 ![](https://img.shields.io/badge/Tool_Used-Tkinter-chocolate.svg)
 ![](https://img.shields.io/badge/Visualizer-Singly_Link_List-orange.svg)
 ![](https://img.shields.io/badge/Concept-Data_Structure-gold.svg)
-![](https://img.shields.io/badge/Functionality-6-blue.svg)
 ![](https://img.shields.io/badge/Python_Version-3.7-brown.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 

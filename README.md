@@ -1,14 +1,27 @@
-# Singly-Link-List-Visualizer
-I made a simple Singly Linked List Visualizer in python using Tkinter. Some of the functionality of Singly Link List I made here, they are:   
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Tool_Used-Tkinter-chocolate.svg)
+![](https://img.shields.io/badge/Visualizer-Singly_Link_List-orange.svg)
+![](https://img.shields.io/badge/Concept-Data_Structure-gold.svg)
+![](https://img.shields.io/badge/Functionality-6-blue.svg)
+![](https://img.shields.io/badge/Python_Version-3.7-brown.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
 
-1.Insert node at first  
-2.Insert node  at last  
-3.Insert Node after a particular node  
-4.Delete node from first  
-5.Delete node from last  
-6.Delete a particular node  
+## <p align="center">   <img src="Images_for_README/heart.png" width=30> ***_Introducing My New Project Singly Link List Visualizer_*** <img src="Images_for_README/heart.png" width=30></p>
 
-Learning Data Structure as well as possible, really inspires me to do that project. Through this functionality of that Link List, I want to make visualization of the logic of all that methods. 
+<p align="center"><img src="Images_for_README/link_list.png"></p>
 
+## <p align="center"> <img src="Images_for_README/heart.png" width=30> ***_Made with Python Tkinter_*** <img src="Images_for_README/heart.png" width=30> </p>
 
-Project demo video link ---> https://youtu.be/Tv2Pba1dwNY
+## 💡 ***_Functionality Provided Here:-_***
+- ### ***_Insert node at first_***
+- ### ***_Insert node at last_***
+- ### ***_Delete node from first_***
+- ### ***_Delete node from last_***
+- ### ***_Insert a node after a particular node_***
+- ### ***_Delete a particular node_***
+
+---
+## 🎯 ***_Useful Links:-_***
+
+- ### ***_[Click Here To See the Project Video](https://youtu.be/Tv2Pba1dwNY)_***
+- ### ***_[Connect With Me on LinkedIn to Get Regular Project Updates](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ "LCO")_***
